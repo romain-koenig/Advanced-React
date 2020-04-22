@@ -3,10 +3,7 @@ import Link from 'next/link';
 // Stateless component
 const Home = props => (
     <div>
-        <p>Hey!</p>
-        <Link href="sell">
-            <a>Sell</a>
-        </Link>
+        <p>This is Home</p>
     </div>
 )
 
